@@ -1,4 +1,4 @@
 def tes(nama):
-	print("saya", nama,"sedang mencoba git")
+	print("saya adalah", nama,"sedang mencoba git")
 
 tes (Yohanes)
